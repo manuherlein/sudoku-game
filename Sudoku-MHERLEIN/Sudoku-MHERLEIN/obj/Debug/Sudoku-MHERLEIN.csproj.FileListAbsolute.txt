@@ -1,0 +1,12 @@
+C:\Users\Manuel\Desktop\Sudoku\Sudoku-MHERLEIN\Sudoku-MHERLEIN\bin\Debug\Sudoku-MHERLEIN.exe.config
+C:\Users\Manuel\Desktop\Sudoku\Sudoku-MHERLEIN\Sudoku-MHERLEIN\bin\Debug\Sudoku-MHERLEIN.exe
+C:\Users\Manuel\Desktop\Sudoku\Sudoku-MHERLEIN\Sudoku-MHERLEIN\bin\Debug\Sudoku-MHERLEIN.pdb
+C:\Users\Manuel\Desktop\Sudoku\Sudoku-MHERLEIN\Sudoku-MHERLEIN\obj\Debug\Sudoku-MHERLEIN.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\Sudoku\Sudoku-MHERLEIN\Sudoku-MHERLEIN\obj\Debug\Sudoku-MHERLEIN.exe
+C:\Users\Manuel\Desktop\Sudoku\Sudoku-MHERLEIN\Sudoku-MHERLEIN\obj\Debug\Sudoku-MHERLEIN.pdb
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\sudoku-game-MHERLEIN\Sudoku-MHERLEIN\Sudoku-MHERLEIN\bin\Debug\Sudoku-MHERLEIN.exe.config
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\sudoku-game-MHERLEIN\Sudoku-MHERLEIN\Sudoku-MHERLEIN\obj\Debug\Sudoku-MHERLEIN.exe
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\sudoku-game-MHERLEIN\Sudoku-MHERLEIN\Sudoku-MHERLEIN\obj\Debug\Sudoku-MHERLEIN.pdb
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\sudoku-game-MHERLEIN\Sudoku-MHERLEIN\Sudoku-MHERLEIN\bin\Debug\Sudoku-MHERLEIN.exe
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\sudoku-game-MHERLEIN\Sudoku-MHERLEIN\Sudoku-MHERLEIN\bin\Debug\Sudoku-MHERLEIN.pdb
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\sudoku-game-MHERLEIN\Sudoku-MHERLEIN\Sudoku-MHERLEIN\obj\Debug\Sudoku-MHERLEIN.csprojResolveAssemblyReference.cache
